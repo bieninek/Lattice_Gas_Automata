@@ -1,5 +1,9 @@
 # Lattice_Gas_Automata
-The project implements easier and simpler way to visualize diffusion than LBM
+The project implements easier and simpler way to visualize diffusion than LBM  
+## Demo  
+Let me show you two movie clips showing this app working:  
+[Lattice Gas Automata 1](https://www.youtube.com/watch?v=hRQm_4i5QaQ)  
+[Lattice Gas Automata 2](https://www.youtube.com/watch?v=PylUg5vOpKA)  
 ## Description of the technologies used
 I wrote the entire program in Java because this language includes a number of facilities for creating the graphical interface needed to visualize the simulation. Compared to other languages, creating a GUI in Java is rather simple. Compared to the QT framework for C++, it is much simpler and contains a number of useful classes that can be used without struggling with the drawbacks of C++. I used the JavaFX and Swing libraries to create visualizations. As I have already mentioned, the process of creating a UI is quite simple, in the main() class of my program, I create an object of the MainUI class, so the constructor of this class works.  
 ```java
