@@ -231,8 +231,13 @@ if (newState.get(1).equals(1) && newState.get(3).equals(1)) {
 ```
 After these operations, it updates the cell state and visualization.
 ## Modeling results
+### Movie clips
+Let me show you two movie clips showing this app working:  
+[Lattice Gas Automata 1](https://www.youtube.com/watch?v=hRQm_4i5QaQ)  
+[Lattice Gas Automata 2](https://www.youtube.com/watch?v=PylUg5vOpKA)  
+### Screenshots
 ![](/image/1.jpg )  
 ![](/image/2.jpg )  
 ![](/image/3.jpg )  
 ## Contact
-If you have any comments or concerns, please don't hesitate to aske via my email :)
+If you have any comments or concerns, please don't hesitate to ask via my email :)
